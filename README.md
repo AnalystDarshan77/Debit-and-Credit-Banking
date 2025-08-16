@@ -6,19 +6,13 @@ This project analyzes banking transaction data to uncover insights into customer
 🎯 Objectives
 
 Track debit and credit transaction flows across customers and branches.
-
 Measure branch performance based on transaction value and volume.
-
 Calculate account activity ratios to evaluate customer engagement.
-
 Build interactive dashboards for decision-making.
 
 🔑 Key Insights
 
 Identified high and low activity customers through account activity ratios.
-
 Compared credit vs. debit flows across branches.
-
 Highlighted top-performing branches in terms of transaction value.
-
 Provided decision-ready insights through dashboards.
